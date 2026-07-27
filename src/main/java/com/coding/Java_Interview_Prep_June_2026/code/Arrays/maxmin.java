@@ -9,6 +9,7 @@ class Maxmin {
         int min = arr[0];
 
         for (int e : arr) {
+              
             if (e > max) {
                 max = e;
             }
